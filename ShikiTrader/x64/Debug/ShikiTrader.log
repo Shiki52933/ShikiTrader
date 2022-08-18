@@ -1,0 +1,821 @@
+﻿  StrategyTemplate.cpp
+  BackTester.cpp
+  DataTypes.cpp
+  MainWindow.cpp
+  main.cpp
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x24c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x130 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x193 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x24d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x132 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x194 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x251 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x135 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x197 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x136 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x19f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x255 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x1a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x258 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x138 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x3c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x192 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x264 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x3ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x193 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x265 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x3cb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x198 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x268 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x3cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x199 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x270 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x49f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x275 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x278 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x209 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x279 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x20b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x27a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x20f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x27b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x27c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x4b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x212 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x27e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x442 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x252 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x444 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x253 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x446 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x447 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x254 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x44a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x255 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x8c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x44c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x258 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x44e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x259 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x451 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x25f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x455 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x265 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.cpp(1,1): warning C4828: 文件包含在偏移 0x9dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x456 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x268 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x457 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x269 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0x459 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x271 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x274 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x275 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x279 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x280 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x281 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x435 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x436 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x544 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x545 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x54c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x54d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb7d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x554 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x555 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x556 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb8b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x557 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb8d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x559 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb94 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x5ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x601 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.cpp(1,1): warning C4828: 文件包含在偏移 0xb9c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x602 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x603 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x85b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x85c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x85d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x85f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x860 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x861 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x862 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x863 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x864 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x865 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x868 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x86d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 DataTypes.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x86f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x872 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x879 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x87a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x87d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x87e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x87f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x880 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x881 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x98f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x990 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x991 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x993 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x994 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x995 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x996 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x997 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x998 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x999 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x99c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9a1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x9b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xaae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xaaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xab0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xab1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xab3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb55 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb57 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb5a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xb5c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdb7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdc4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdcc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdcf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdd0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdd1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdd2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xdd3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xee9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xeea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xeeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xeec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xeef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xef4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xef6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xef9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0xf08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x122e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x122f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1231 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1233 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1234 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1235 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1236 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1238 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1239 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x123a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x123c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x123d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1283 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1286 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1287 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1288 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1289 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x128a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x128b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x128c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x128d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x12e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x15fe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1600 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1601 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1603 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1605 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1611 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1613 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1615 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1616 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x161c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x161d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x161e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1853 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1858 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x185a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x185b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x185c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x185f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1860 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1861 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1865 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1869 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x186a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x186c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19aa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x19b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a6b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a7a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a7b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1a7c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1abd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1abe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ac2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ac3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ac6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1aeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1aec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1aee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1af3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1af4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1af5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1af7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1afa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1afd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1afe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1aff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b04 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b08 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b0c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b11 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1b16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c80 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c81 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c83 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c84 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c85 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c86 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c87 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c8a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c92 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c94 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c95 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1c9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ca0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ca1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ca2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ca3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d96 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1da9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1dab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1daf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1db7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ee9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1eea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1eeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1eec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1eed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1eee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ef0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ef3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ef4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ef5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1ef9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1efb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1efc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1efe 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1f00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1f01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1f03 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\BackTester.cpp(1,1): warning C4828: 文件包含在偏移 0x1f05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 MainWindow.cpp)
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  moc_BackTester.cpp
+  moc_StrategyTemplate.cpp
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_StrategyTemplate.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_BackTester.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x1e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\StrategyTemplate.h(1,1): warning C4828: 文件包含在偏移 0x2d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xaf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xb1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0xc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x608 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x609 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x60d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x68e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x6cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x72e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x731 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x732 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x734 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x735 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x736 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x738 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x739 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x73e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x741 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x744 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x746 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x747 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x748 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x749 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+C:\Users\zqm25\source\repos\ShikiTrader\ShikiTrader\DataTypes.h(1,1): warning C4828: 文件包含在偏移 0x74f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 x64\Debug\moc\moc_MainWindow.cpp)
+  ShikiTrader.vcxproj -> C:\Users\zqm25\source\repos\ShikiTrader\x64\Debug\ShikiTrader.exe
